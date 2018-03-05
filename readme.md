@@ -81,7 +81,32 @@
 ## Spring Cloud
 
 1. Eureka注册中心
-2. 
+2. Ribbon集成REST实现负载均衡
+3. Fegion声明式服务调用
+4. Hystrix服务熔断降级方式
+5. Zuul实现微服务网关
+6. Config分布式统一配置中心
+7. Sleuth调用链路跟踪
+8. BUS消息总线
+9. 基于Hystrix实现接口降级方案实战
+10. 集成Spring clouds实现统一整合方案
+
+## Docker虚拟化
+
+1. Docker镜像、仓库、容器
+2. Docker File构建LNMP环境个人博客
+3. Docker Compose构建LNMP环境个人博客
+4. Docker网络组成、路由互联、Openvswitch
+5. 基于swarn构建docker集群
+6. Kubernetes简介
+
+## 漫谈微服务架构
+
+1. SOA架构和微服务架构之间的区别和联系
+2. 如何设计微服务及其设计原则
+3. 解惑Spring boot流行因素及能解决什么问题
+4. 什么是Spring cloud，为啥要选择它
+5. 全局分析Spring cloud各个组件所解决的问题
 
 # 性能优化
 
