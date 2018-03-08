@@ -7,7 +7,7 @@
 3. 程序控制语句，if、switch、while、for
 4. 包、接口和抽象类
 5. 异常处理
-6. 多线程变成、线程池、fork-join、并发编程
+6. 多线程编程、线程池、fork-join、并发编程
 7. annotation
 8. 枚举
 9. 泛型
