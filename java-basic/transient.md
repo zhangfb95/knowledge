@@ -1,0 +1,1 @@
+transient修饰类对象的成员变量，表示此变量不会被`ObjectOutputStream`和`ObjectInputStream`所序列化和反序列化。
